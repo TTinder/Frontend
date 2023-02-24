@@ -1,6 +1,6 @@
-## 틴더 클론코딩 팀프로젝트 Frontend
+# 💘 틴더 클론코딩 팀프로젝트 Frontend
 
-**Stack** <br/>
+**🚀 Stack** <br/>
 React, Styled-component, Recoil, Axios, React-query<br/>
 <br/>
 
